@@ -1,6 +1,6 @@
 # npmtest-licensing
 
-#### test coverage for  [licensing (v0.1.0)](https://github.com/3rd-Eden/licensing)  [![npm package](https://img.shields.io/npm/v/npmtest-licensing.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-licensing) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-licensing.svg)](https://travis-ci.org/npmtest/node-npmtest-licensing)
+#### basic test coverage for  [licensing (v0.1.0)](https://github.com/3rd-Eden/licensing)  [![npm package](https://img.shields.io/npm/v/npmtest-licensing.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-licensing) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-licensing.svg)](https://travis-ci.org/npmtest/node-npmtest-licensing)
 
 #### Discover the license footprint of your application
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-licensing/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-licensing/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-licensing/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-licensing/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-licensing/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-licensing/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-licensing/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-licensing/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-licensing/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-licensing/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-licensing/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-licensing/build/coverage.html/index.html)
 
